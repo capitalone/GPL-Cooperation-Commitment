@@ -1,4 +1,7 @@
 # GPL-Cooperation-Commitment
+
+Open source software has changed how we hold discussions about development best practices, which is why Capital One is proud to support the GPL Cooperation Commitment initiated by Red Hat. At Capital One, we take an open source-first approach to software development, and commitments like the GPL Cooperation not only allow for greater predictability in open source licensing, they help grow the open source ecosystem and drive software innovation. - John Mark Walker, Director of Capital One’s Open Source Program Office
+
 Our Commitment
 
 Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, Capital One commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
